@@ -1,7 +1,8 @@
 // Fake in-memory data (for teaching)
 let students = [
-  { id: 1, name: 'Amit' },
-  { id: 2, name: 'Riya' }
+  { id: 1, name: 'Haider' },
+  { id: 2, name: 'Hitik' },
+  { id: 3, name: 'Het' }
 ];
 
 // GET /students
